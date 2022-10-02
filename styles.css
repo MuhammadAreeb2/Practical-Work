@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.background-img{
+
+    width: 100%;
+    background-blend-mode: darken;
+    filter: brightness(30%);
+    background-size: cover;
+}
+img{
+    width: 100%;
+}
+h1,h2{
+    position: absolute;
+    top: 5%;
+    left: 42%;
+    color: white;
+    font-size: 38px;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    display: block;
+}
+h2{
+    position: absolute;
+    top: 14%;
+    left: 38%;
+}
